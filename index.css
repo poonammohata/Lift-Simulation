@@ -6,7 +6,6 @@ div {
     white-space: nowrap;
 }
 #lift-container {
-    border: 1px solid red;
     padding: 3vh 3vh;
     display: flex;
     justify-content: center; 
